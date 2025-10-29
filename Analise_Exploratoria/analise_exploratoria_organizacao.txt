@@ -18,7 +18,3 @@ gráfico de barras de funcionários que bebem e quantidade de horas de absenteí
 gráfico de barras de funcionários que fumam e quantidade de horas de absenteísmo 
 gráfico de barras de funcionários que bebem ou fumam e motivos de falta que mais ocorrem 
 -- Criar markdown detalhando a análise e possíveis resultados
-
-=== ??? ===
-gráfico de barras sobre dias com mais horas de absenteísmo (relação de dias da semana com média de horas somadas de absenteísmo)	
--- Criar markdown detalhando a análise e possíveis resultados
