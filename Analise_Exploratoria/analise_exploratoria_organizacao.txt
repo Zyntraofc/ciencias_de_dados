@@ -1,0 +1,24 @@
+entendimento da base que será usada para análise --OK
+
+separação das features categóricas e numéricas e a target --OK
+
+estudo das relações das features numéricas entre si --OK
+
+estudo das relações das features categóricas entre si --OK
+
+estudo das relações das features categóricas com as numéricas --OK
+
+=== análise dos motivos de falta no trabalho ===
+gráfico de barras sobre a quantidade de ocorrências por motivo de ausência --OK
+gráfico de barras sobre a média de horas de absenteísmo por motivo de ausência --OK
+-- Criar markdown detalhando a análise e possíveis resultados
+
+=== análise sobre hábitos não saudáveis e seu impacto no trabalho ===
+gráfico de barras de funcionários que bebem e quantidade de horas de absenteísmo 
+gráfico de barras de funcionários que fumam e quantidade de horas de absenteísmo 
+gráfico de barras de funcionários que bebem ou fumam e motivos de falta que mais ocorrem 
+-- Criar markdown detalhando a análise e possíveis resultados
+
+=== ??? ===
+gráfico de barras sobre dias com mais horas de absenteísmo (relação de dias da semana com média de horas somadas de absenteísmo)	
+-- Criar markdown detalhando a análise e possíveis resultados
